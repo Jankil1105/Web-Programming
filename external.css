@@ -1,0 +1,88 @@
+body{
+background-image: url("background.jpeg");
+height: 200%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1 { color: blue;}
+.myQuote {
+border: 5px outset purple;
+background-color: lightgreen;
+text-align: center;
+}
+a:hover{
+background-color: yellow;
+}
+.tabs {
+background-color: powderblue;
+width: 100%;
+text-align: center;
+margin-top: 10px;
+margin-bottom:10px;
+text-decoration:none;
+color: black;
+margin-left: auto;
+margin-right: auto;
+word-spacing: 10px;
+}
+ul{
+text-align: left;
+background:none;
+list-style-type: circle;
+margin: left;
+padding: 10px;
+}
+li{
+float: none;
+}
+
+ol{
+text-align: right;
+background: none;
+list-style-type:none;
+margin: right;
+padding: 10px;
+overflow:hidden;
+}
+li{
+float: none;
+}
+table{
+width: 100%;
+text-align: center;
+margin-top: 8px;
+margin-bottom: 8px;
+border: 1px solid black;
+}
+td{
+border: 1px solid black;
+width:33%;
+}
+tr
+{
+color: black;
+}
+#red {
+color: red;
+font-weight: bold;
+}
+#heading {
+color: blue;
+font-weight: bold;
+}
+#bgcolor {
+background-color: #BE9BF0;
+}
+#otherbg{
+background-color: #9BECF0;
+}
+#headcolor{
+background-color: #DAF7A6;
+}
+#maincolor{
+background-color: white;
+}
+#bold {
+font-weight: bold;
+}

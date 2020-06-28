@@ -1,0 +1,25 @@
+body{
+bakground-image: url("background.jpeg");
+height:100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+color: dodgerblue;
+text-align: center;
+}
+#textcolor{
+color: dodgerblue;
+font-weight: bold;
+}
+#red{
+color: red;
+font-weight: bold;
+}
+#bold{
+font-weight:bold;
+}
+#center{
+text-align: center;
+}
